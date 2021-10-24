@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica14b_Widget</string>
+    <string name="str_widget">Mi Primer Widget</string>
+    <string name="str_acep">Aceptar</string>
+    <string name="str_cancel">Cancelar</string>
+    <string name="str_msg">Mensaje</string>
+</resources>
